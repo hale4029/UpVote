@@ -1,6 +1,7 @@
 # UpVote
-
+![6D9CCA08-9791-48E2-B487-4BAA0358D2AB](https://user-images.githubusercontent.com/16090626/75720162-3a858c00-5c93-11ea-8920-fd6b938275ff.jpeg)
 Click to open the [UpVote app](https://upvote-ideas-ui.herokuapp.com/) hosted on Heroku
+Click [here](https://github.com/hale4029/Upvote_API) to open the related Back-End API supporting this Front-End 
 
 [![Build Status](https://travis-ci.com/jobannon/upvote_ui.svg?branch=master)](https://travis-ci.com/jobannon/upvote_ui)
 
@@ -78,7 +79,7 @@ Environment variables and required API keys/tokens:
 - Ruby 2.6.3
 - Rails 6.0.2
 
-### Related Repos
+### Related Repositories
 - [upvote_api](https://github.com/jobannon/upvote_api)
 
 ## Database 
@@ -111,8 +112,6 @@ $ bundle exec rspec <path-to-file>
 ```
 
 ## Roadmap
-* Add an admin functionality
-  * Enabling enrolling a user in cohort 
 * [projectboard](https://github.com/jobannon/upvote_ui/projects/1)
 
 ## Contact
@@ -121,3 +120,4 @@ $ bundle exec rspec <path-to-file>
 * [hale4029](https://github.com/hale4029)
 ## Acknowledgements
 * [Brian Zanti](https://github.com/BrianZanti)
+
