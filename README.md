@@ -1,7 +1,7 @@
 # UpVote
 ![6D9CCA08-9791-48E2-B487-4BAA0358D2AB](https://user-images.githubusercontent.com/16090626/75720162-3a858c00-5c93-11ea-8920-fd6b938275ff.jpeg)
-Click to open the [UpVote app](https://upvote-ideas-ui.herokuapp.com/) hosted on Heroku  
-Click [here](https://github.com/hale4029/Upvote_API) to visit supporting Back-End repo
+Click to open the [UpVote app](https://upvote-ideas-ui.herokuapp.com/) hosted on Heroku
+Click [here](https://github.com/jobannon/upvote_api) to open the related Back-End API supporting this Front-End 
 
 [![Build Status](https://travis-ci.com/jobannon/upvote_ui.svg?branch=master)](https://travis-ci.com/jobannon/upvote_ui)
 
@@ -31,7 +31,7 @@ Object Oriented Programing principles, Restful Routing, Test Driven Development,
 
 ## Welcome Page Demo
 
-![UpVote Demo](.gif placeholder)
+![upvote2](https://user-images.githubusercontent.com/16090626/76369084-f419d800-62f7-11ea-8b69-71d0da146050.gif)
 
 ## Installation
 1. Clone down this and the micro-service repo into a directory of your choice
@@ -85,8 +85,8 @@ Environment variables and required API keys/tokens:
 ## Database 
 ![image](https://user-images.githubusercontent.com/16090626/75499161-6e586d00-5986-11ea-83f0-c552c29d81a7.png)
 
-## Programatic Flow
-![upvotetech](https://user-images.githubusercontent.com/16090626/75500418-1cb1e180-598a-11ea-8571-797be8c32ece.png)
+## Architecture
+![image](https://user-images.githubusercontent.com/29346170/75731022-71d15880-5ce6-11ea-9389-9cd546f86ca2.png)
 
 ## Testing
 
@@ -120,4 +120,3 @@ $ bundle exec rspec <path-to-file>
 * [hale4029](https://github.com/hale4029)
 ## Acknowledgements
 * [Brian Zanti](https://github.com/BrianZanti)
-
