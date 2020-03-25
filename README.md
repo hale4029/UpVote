@@ -1,7 +1,7 @@
 # UpVote
 ![6D9CCA08-9791-48E2-B487-4BAA0358D2AB](https://user-images.githubusercontent.com/16090626/75720162-3a858c00-5c93-11ea-8920-fd6b938275ff.jpeg)
 Click to open the [UpVote app](https://upvote-ideas-ui.herokuapp.com/) hosted on Heroku
-Click [here](https://github.com/jobannon/upvote_api) to open the related Back-End API supporting this Front-End 
+Click [here](https://github.com/hale4029/Upvote_API) to open the related Back-End API supporting this Front-End 
 
 [![Build Status](https://travis-ci.com/jobannon/upvote_ui.svg?branch=master)](https://travis-ci.com/jobannon/upvote_ui)
 
@@ -37,11 +37,11 @@ Object Oriented Programing principles, Restful Routing, Test Driven Development,
 1. Clone down this and the micro-service repo into a directory of your choice
 ```
   $ git clone https://github.com/jobannon/upvote_ui
-  $ git clone https://github.com/jobannon/upvote_api
+  $ git clone https://github.com/hale4029/Upvote_API
 ```
 2. Change into the following directory
 ```
-  $ cd upvote_ui
+  $ cd UpVote
 ```
 3. Install the gem packages
 ```
@@ -49,7 +49,7 @@ Object Oriented Programing principles, Restful Routing, Test Driven Development,
 ```
 4. Change into the other directory
 ```
-  $ cd upvote_api
+  $ cd Upvote_API
 ```
 5. Install the gem packages
 ```
@@ -65,7 +65,7 @@ Object Oriented Programing principles, Restful Routing, Test Driven Development,
 ```
 8. In a separate terminal tab, run the upvote_ui
 ```
-  $ cd upvote_ui
+  $ cd UpVote
   $ puma
 ```
 9. Finally, visit `http://localhost:9292` in your web browser
@@ -80,7 +80,7 @@ Environment variables and required API keys/tokens:
 - Rails 6.0.2
 
 ### Related Repositories
-- [upvote_api](https://github.com/jobannon/upvote_api)
+- [upvote_api](https://github.com/hale4029/Upvote_API)
 
 ## Database 
 ![image](https://user-images.githubusercontent.com/16090626/75499161-6e586d00-5986-11ea-83f0-c552c29d81a7.png)
