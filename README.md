@@ -38,8 +38,8 @@ Object Oriented Programing principles, RESTful Routing, Test Driven Development,
 ## Installation
 1. Clone down this and the micro-service repo into a directory of your choice
 ```
-  $ git clone https://github.com/jobannon/upvote_ui
-  $ git clone https://github.com/hale4029/Upvote_API
+  $ git git@github.com:hale4029/UpVote.git
+  $ git clone git@github.com:hale4029/Upvote_API.git
 ```
 2. Change into the following directory
 ```
