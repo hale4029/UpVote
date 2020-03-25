@@ -24,10 +24,12 @@ Click [here](https://github.com/hale4029/Upvote_API) to open the related Back-En
 * [Acknowledgements](#acknowledgements)
 
 ## About the project
-UpVote is an interactive Rails web application built from conception to completion that authenticates with a third-party service (GitHub), consumes the Upsplash API, and provides a solution to an identified problem.
+UUpVote is a bespoke, interactive microservice web application that authenticates with a third-party service (GitHub), consumes an image API (Upsplash), integrates asynchronous JavaScript requests/posts, and provides a solution for Turing's Mod 3 project ideation process.
+
+During Mod 3, students suggest ideas for possible web applications. The ideas are voted upon and the top 5 are divided amongst groups of 3-4. UpVote is a web application that improves that process by allowing students to create and submit ideas. Once all ideas are submitted, the instructors can then permit voting (in the classroom), allowing students to vote in real time and view the results simultaneously.
 
 ## Purpose
-Object Oriented Programing principles, Restful Routing, Test Driven Development, Behavior Driven Development, Authenticated API calls, OAuth process
+Object Oriented Programing principles, RESTful Routing, Test Driven Development, Behavior Driven Development, Authenticated API calls, OAuth process, Client-Side JavaScript fetch requests.
 
 ## Welcome Page Demo
 
